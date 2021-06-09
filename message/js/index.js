@@ -1,6 +1,6 @@
 this.$dom = {};
 this.$dom.animatedText = document.createElement('div');
-this.text = "THIS IS MESSAGE SECTION OF THIS WEBSITE.DEMO MESSAGE- Your custom message";  // MESSAGE AREA , THIS CAN BE CHANGED FROM YOUR MESSAGE :)
+this.text = "Funny, smart, silly, cute, pretty, and fantastic. Leena, You truly are a girl who is beautiful inside out. On your birthday today, I just want you to know how lucky I am to have you in my life, happy birthday to you! Every person God brings into our lives holds a special place in our hearts, some for a few years some for many years, and some for their lifetime and most of ours. I wish I could take back the hard times that you had to suffer, but I can't. Meri Bandri, I just need you to know that I'll be there for you no matter what.";  // MESSAGE AREA , THIS CAN BE CHANGED FROM YOUR MESSAGE :)
 this.$dom.container = document.getElementById('container');
 this.$dom.container.appendChild(this.$dom.animatedText);
 animateText();
